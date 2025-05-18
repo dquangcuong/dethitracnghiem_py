@@ -118,5 +118,17 @@
     ],
     "answer": "A",
     "subject": "Java"
+  },
+  {
+    "id": "Q011",
+    "question": "Hàm nào dùng để lấy độ dài của chuỗi trong Python?",
+    "options": [
+      "len()",
+      "strlen()",
+      "concat()",
+      "strengh"
+    ],
+    "answer": "A",
+    "subject": "Toán"
   }
 ]

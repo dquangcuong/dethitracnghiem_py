@@ -1,0 +1,179 @@
+ID: Q011
+Subject: Python
+Question: Hàm nào dùng để lấy độ dài chuỗi trong Python?
+A. length()
+B. size()
+C. len()
+D. strlen()
+Answer: C
+
+ID: Q012
+Subject: Python
+Question: Cách nào để tạo một danh sách rỗng trong Python?
+A. list = []
+B. list = ()
+C. list = {}
+D. list = //
+Answer: A
+
+ID: Q013
+Subject: Python
+Question: Câu lệnh nào dùng để lặp qua danh sách trong Python?
+A. for
+B. while
+C. loop
+D. repeat
+Answer: A
+
+ID: Q014
+Subject: Python
+Question: Câu lệnh nào để in ra màn hình trong Python?
+A. print()
+B. echo()
+C. write()
+D. output()
+Answer: A
+
+ID: Q015
+Subject: Python
+Question: Kiểu dữ liệu nào dùng để lưu chuỗi trong Python?
+A. str
+B. char
+C. string
+D. txt
+Answer: A
+
+ID: Q016
+Subject: Python
+Question: Cách nào để thêm phần tử vào danh sách trong Python?
+A. list.add()
+B. list.append()
+C. list.insert()
+D. list.push()
+Answer: B
+
+ID: Q017
+Subject: Python
+Question: Toán tử nào dùng để kiểm tra điều kiện bằng nhau trong Python?
+A. =
+B. ==
+C. !=
+D. >=
+Answer: B
+
+ID: Q018
+Subject: Python
+Question: Câu lệnh nào dùng để khai báo hàm trong Python?
+A. def
+B. function
+C. define
+D. method
+Answer: A
+
+ID: Q019
+Subject: Python
+Question: Phương thức nào dùng để loại bỏ phần tử khỏi danh sách?
+A. delete()
+B. pop()
+C. remove()
+D. discard()
+Answer: C
+
+ID: Q020
+Subject: Python
+Question: Thư viện nào thường dùng để tính toán trong Python?
+A. math
+B. random
+C. io
+D. re
+Answer: A
+
+ID: Q021
+Subject: Java
+Question: Từ khóa nào dùng để khai báo lớp trong Java?
+A. class
+B. struct
+C. module
+D. object
+Answer: A
+
+ID: Q022
+Subject: Java
+Question: Phương thức nào dùng để in ra màn hình trong Java?
+A. System.out.println()
+B. print()
+C. echo()
+D. console.log()
+Answer: A
+
+ID: Q023
+Subject: Java
+Question: Từ khóa nào dùng để kế thừa lớp trong Java?
+A. extends
+B. inherit
+C. implements
+D. superclass
+Answer: A
+
+ID: Q024
+Subject: Java
+Question: Câu nào đúng khi tạo đối tượng mới trong Java?
+A. new MyClass();
+B. create MyClass;
+C. MyClass obj = make();
+D. MyClass() = new;
+Answer: A
+
+ID: Q025
+Subject: Java
+Question: Phương thức nào được gọi đầu tiên khi chạy chương trình Java?
+A. main()
+B. start()
+C. init()
+D. run()
+Answer: A
+
+ID: Q026
+Subject: Java
+Question: Từ khóa nào được dùng để ngăn kế thừa lớp?
+A. final
+B. static
+C. private
+D. sealed
+Answer: A
+
+ID: Q027
+Subject: Java
+Question: Interface là gì trong Java?
+A. Một lớp trừu tượng hoàn toàn
+B. Một lớp con
+C. Một hàm tĩnh
+D. Một phương thức khởi tạo
+Answer: A
+
+ID: Q028
+Subject: Java
+Question: Java có hỗ trợ đa kế thừa không?
+A. Không, chỉ qua interface
+B. Có, thông qua extends
+C. Không có đa kế thừa
+D. Chỉ hỗ trợ trong abstract
+Answer: A
+
+ID: Q029
+Subject: Java
+Question: Từ khóa nào dùng để xử lý ngoại lệ trong Java?
+A. try-catch
+B. if-else
+C. check-exception
+D. error-catch
+Answer: A
+
+ID: Q030
+Subject: Java
+Question: Kiểu dữ liệu nào dùng để lưu chữ trong Java?
+A. String
+B. str
+C. text
+D. char[]
+Answer: A
