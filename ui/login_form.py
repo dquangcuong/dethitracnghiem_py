@@ -20,7 +20,7 @@ def show_login():
             messagebox.showerror("Lỗi", "Sai tài khoản hoặc mật khẩu.")
 
     root = tk.Tk()
-    root.title("Đăng nhập giáo viên")
+    root.title("Đăng nhập  ")
     root.configure(bg="#f0f0f0")
 
     # Căn giữa

@@ -1,6 +1,8 @@
 import tkinter as tk
 from ui.question_form import show_question_manager
 from ui.exam_form import show_exam_manager
+from ui.change_password_ui import ChangePasswordUI  # Import ChangePasswordUI
+
 
 def show_main_ui():
     root = tk.Tk()
@@ -38,9 +40,15 @@ def show_main_ui():
         "cursor": "hand2"
     }
 
+    def open_change_password():
+        change_pw_window = tk.Toplevel()
+        change_pw_window.grab_set()  # Khóa focus vào cửa sổ đổi mật khẩu
+        ChangePasswordUI(change_pw_window)
+
     tk.Label(sidebar, text="  MENU", font=("Arial", 12, "bold"), fg="#08306b", bg=sidebar_bg).pack(pady=(20,10), anchor="w")
     tk.Button(command=lambda: show_question_manager(root), text="  Quản lý câu hỏi", **btn_opts).pack(pady=5)
     tk.Button(command=lambda: show_exam_manager(root),     text="  Quản lý đề thi",   **btn_opts).pack(pady=5)
+    tk.Button(command=open_change_password,                 text="  Đổi mật khẩu",      **btn_opts).pack(pady=5)
     tk.Button(command=root.quit,                            text="  Thoát",            **btn_opts).pack(side="bottom", pady=20)
 
     # Vùng nội dung chính bên phải
@@ -80,6 +88,7 @@ def show_main_ui():
     guide_text.pack(side="left")
 
     root.mainloop()
+
 
 if __name__ == "__main__":
     show_main_ui()
