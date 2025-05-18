@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Q001",
+    "subject": "Python",
+    "question": "Python là ngôn ngữ lập trình kiểu gì?",
+    "options": [
+      "A. Ngôn ngữ lập trình hướng đối tượng",
+      "B. Ngôn ngữ lập trình thủ tục",
+      "C. Ngôn ngữ lập trình mệnh lệnh",
+      "D. Ngôn ngữ lập trình máy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Q002",
+    "subject": "Python",
+    "question": "Câu lệnh nào dùng để in ra màn hình trong Python?",
+    "options": [
+      "A. print()",
+      "B. echo()",
+      "C. printf()",
+      "D. cout"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Q003",
+    "subject": "Python",
+    "question": "Kiểu dữ liệu nào dùng để lưu trữ chuỗi trong Python?",
+    "options": [
+      "A. int",
+      "B. str",
+      "C. float",
+      "D. bool"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Q004",
+    "subject": "Python",
+    "question": "Python sử dụng từ khóa nào để định nghĩa hàm?",
+    "options": [
+      "A. def",
+      "B. function",
+      "C. func",
+      "D. define"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Q005",
+    "subject": "Java",
+    "question": "Java là ngôn ngữ lập trình thuộc loại nào?",
+    "options": [
+      "A. Ngôn ngữ lập trình hướng đối tượng",
+      "B. Ngôn ngữ lập trình thủ tục",
+      "C. Ngôn ngữ lập trình mệnh lệnh",
+      "D. Ngôn ngữ lập trình máy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Q006",
+    "subject": "Java",
+    "question": "Từ khóa nào dùng để khai báo một lớp trong Java?",
+    "options": [
+      "A. class",
+      "B. struct",
+      "C. interface",
+      "D. object"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Q007",
+    "subject": "Java",
+    "question": "Phương thức nào được sử dụng để xuất ra màn hình trong Java?",
+    "options": [
+      "A. System.out.println()",
+      "B. print()",
+      "C. echo()",
+      "D. Console.WriteLine()"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Q008",
+    "subject": "Java",
+    "question": "Java hỗ trợ tính năng đa kế thừa bằng cách nào?",
+    "options": [
+      "A. Thông qua các interface.",
+      "B. Thông qua các lớp cha",
+      "C. Bằng cách dùng từ khóa extends nhiều lần",
+      "D. Java không hỗ trợ đa kế thừa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Q009",
+    "question": "Nếu ba đường thẳng không cùng nằm trong một mặt phẳng và đôi một cắt nhau thì:",
+    "options": [
+      "Ba đường thẳng đó đồng quy",
+      "Ba đường thẳng đó tạo thành một tam giác",
+      "Ba đường thẳng đó trùng nhau",
+      "Không có ba đường thẳng như vây"
+    ],
+    "answer": "A",
+    "subject": "Toán"
+  },
+  {
+    "id": "Q010",
+    "question": "Thứ tự khởi tạo trong Java khi tạo đối tượng là gì?",
+    "options": [
+      "Khối static → Biến thành viên → Khối khởi tạo {} → Constructor",
+      "Biến thành viên → Khối static → Constructor → Khối {}",
+      "Khối {} → Biến thành viên → Constructor → Khối static",
+      "Constructor → Khối {} → Biến thành viên → Khối statics"
+    ],
+    "answer": "A",
+    "subject": "Java"
+  }
+]
